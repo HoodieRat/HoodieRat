@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoodieRat
 - 👀 I’m interested in ... making strange things.
 - 🌱 I’m currently learning ... brrrrrrrr
-- 💞️ I’m looking to collaborate on my dungeon game I'm attempting to create.
+- 💞️ I’m looking to collaborate on my ai bots for Minecraft
 - 📫 How to reach me ... (I have no idea)
 - 😄 Pronouns: ... him
 - ⚡ Fun fact: ... I have no idea!
